@@ -1,0 +1,35 @@
+body{
+    background-color:chocolate;
+    color: #241b24;
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+nav{
+    background-color: azure;
+    text-align: center;
+}
+nav a{
+    color: #241b24;
+    text-align: center;
+}
+section{
+    background-color: chocolate;
+    color: #241b24;
+}
+
+h2{
+    color: #241b24;
+    text-align: center;
+}
+ol{
+    list-style: none;
+}
+footer{
+    color: white;
+    background-color: black;
+}
